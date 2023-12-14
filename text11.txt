@@ -1,7 +1,2 @@
 this is my second devops class
 i made some changes
-
-
-changes 1
-changes 2
-changes 3
